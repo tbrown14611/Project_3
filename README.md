@@ -4,24 +4,35 @@ Project ideation - Started 07/18/2024
 Project Team
 
 Data fetching - Started 07/18/2024
-Cris and Team
+Chris and Team
 
-Data exploration;
+Data exploration
+Chris and Team
 
-Data transformation;
+Data transformation
+Chris and Team
 
-Data analysis;
+Data analysis
+Chris and Team
 
 Data cleaning and preprocessing
+Chris and Team
 
-Testing ML models;
+Testing ML models
+scikit-learn
+Keras
+TensorFlow
+
+PyTorch - Thomas 
+
 
 Integrate AI tools into the project for deployment
 
 Creating documentation - Started 07/18/2024
 Thomas and Team
 
-Creating the presentation.
+Creating the presentation
+Team
 
 
 Abstract: (sourceHighway traffic accident prediction using VDS big data analysis
