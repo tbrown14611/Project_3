@@ -18,7 +18,8 @@ Testing ML models;
 
 Integrate AI tools into the project for deployment
 
-Creating documentation; and
+Creating documentation - Started 07/18/2024
+Thomas and Team
 
 Creating the presentation.
 
