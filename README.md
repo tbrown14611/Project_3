@@ -31,8 +31,18 @@ Integrate AI tools into the project for deployment
 Creating documentation - Started 07/18/2024
 Thomas and Team
 
-Creating the presentation
-Team
+Communication Plan (creating the presentation):
+
+ Project Purpose / Description
+    Executive Overview
+ Goal/Questions to be addressed
+ Data Sources
+    Clean and Consistent Data
+Approach taken to achieve goals
+Result/Conclusion
+Summary
+Future Considerations
+
 
 
 Abstract: (sourceHighway traffic accident prediction using VDS big data analysis
@@ -45,8 +55,11 @@ Published: 01 July 2016 Publication History)
 
  Traffic accidents that cause a lot of damages are occurring in Colorado (how many?). The most effective solution to these types of accidents can be to predict future accidents in advance, giving drivers chances to avoid the dangers or reduce the damage by responding quickly. 
  
- Predicting accidents on the road can be achieved using classification analysis, a data mining procedure requiring enough data to build a learning model. However, building such a predicting system involves several problems. It requires many hardware resources to collect and analyze traffic data for predicting traffic accidents since the data are extremely large
+ Predicting accidents on the road can be achieved using classification analysis, a data mining procedure requiring enough data to build a learning model. However, building such a predicting system involves several problems. It requires many hardware resources to collect and analyze traffic data for predicting traffic accidents since the data are extremely large.
+
+ Our Team will choose from the traffic data currently available that will be used for predicting accidents.
+
+
+
+
  
-  Furthermore, the size of data related to traffic accidents is less than that not related to traffic accidents; the amounts of the two classes (classes to be predicted and other classes) of data differ and are thus imbalanced. 
-  
-  The purpose of this paper is to build a predicting model that can resolve all these problems. This paper suggests using the Hadoop framework to process and analyze big traffic data efficiently and a sampling method to resolve the problem of data imbalance. Based on this, the predicting system first preprocesses the big traffic data and analyzes it to create data for the learning system. The imbalance of created data is corrected using a sampling method. To improve the predicting accuracy, corrected data are classified into several groups, to which classification analysis is applied.
