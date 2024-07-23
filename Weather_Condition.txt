@@ -1,0 +1,300 @@
+---- Weather_Condition_Blowing Dust ---
+0.0    90883
+1.0        2
+Name: Weather_Condition_Blowing Dust, dtype: int64
+---- Weather_Condition_Blowing Dust / Windy ---
+0.0    90869
+1.0       16
+Name: Weather_Condition_Blowing Dust / Windy, dtype: int64
+---- Weather_Condition_Blowing Snow ---
+0.0    90862
+1.0       23
+Name: Weather_Condition_Blowing Snow, dtype: int64
+---- Weather_Condition_Blowing Snow / Windy ---
+0.0    90871
+1.0       14
+Name: Weather_Condition_Blowing Snow / Windy, dtype: int64
+---- Weather_Condition_Clear ---
+0.0    84204
+1.0     6681
+Name: Weather_Condition_Clear, dtype: int64
+---- Weather_Condition_Cloudy ---
+0.0    84992
+1.0     5893
+Name: Weather_Condition_Cloudy, dtype: int64
+---- Weather_Condition_Cloudy / Windy ---
+0.0    90651
+1.0      234
+Name: Weather_Condition_Cloudy / Windy, dtype: int64
+---- Weather_Condition_Drizzle ---
+0.0    90850
+1.0       35
+Name: Weather_Condition_Drizzle, dtype: int64
+---- Weather_Condition_Drizzle and Fog ---
+0.0    90879
+1.0        6
+Name: Weather_Condition_Drizzle and Fog, dtype: int64
+---- Weather_Condition_Fair ---
+0.0    65542
+1.0    25343
+Name: Weather_Condition_Fair, dtype: int64
+---- Weather_Condition_Fair / Windy ---
+0.0    89827
+1.0     1058
+Name: Weather_Condition_Fair / Windy, dtype: int64
+---- Weather_Condition_Fog ---
+0.0    90334
+1.0      551
+Name: Weather_Condition_Fog, dtype: int64
+---- Weather_Condition_Fog / Windy ---
+0.0    90861
+1.0       24
+Name: Weather_Condition_Fog / Windy, dtype: int64
+---- Weather_Condition_Freezing Drizzle ---
+0.0    90884
+1.0        1
+Name: Weather_Condition_Freezing Drizzle, dtype: int64
+---- Weather_Condition_Funnel Cloud ---
+0.0    90883
+1.0        2
+Name: Weather_Condition_Funnel Cloud, dtype: int64
+---- Weather_Condition_Haze ---
+0.0    90490
+1.0      395
+Name: Weather_Condition_Haze, dtype: int64
+---- Weather_Condition_Haze / Windy ---
+0.0    90850
+1.0       35
+Name: Weather_Condition_Haze / Windy, dtype: int64
+---- Weather_Condition_Heavy Blowing Snow ---
+0.0    90883
+1.0        2
+Name: Weather_Condition_Heavy Blowing Snow, dtype: int64
+---- Weather_Condition_Heavy Drizzle ---
+0.0    90875
+1.0       10
+Name: Weather_Condition_Heavy Drizzle, dtype: int64
+---- Weather_Condition_Heavy Rain ---
+0.0    90857
+1.0       28
+Name: Weather_Condition_Heavy Rain, dtype: int64
+---- Weather_Condition_Heavy Rain / Windy ---
+0.0    90880
+1.0        5
+Name: Weather_Condition_Heavy Rain / Windy, dtype: int64
+---- Weather_Condition_Heavy Snow ---
+0.0    90503
+1.0      382
+Name: Weather_Condition_Heavy Snow, dtype: int64
+---- Weather_Condition_Heavy Snow / Windy ---
+0.0    90827
+1.0       58
+Name: Weather_Condition_Heavy Snow / Windy, dtype: int64
+---- Weather_Condition_Heavy T-Storm ---
+0.0    90870
+1.0       15
+Name: Weather_Condition_Heavy T-Storm, dtype: int64
+---- Weather_Condition_Heavy T-Storm / Windy ---
+0.0    90876
+1.0        9
+Name: Weather_Condition_Heavy T-Storm / Windy, dtype: int64
+---- Weather_Condition_Heavy Thunderstorms and Rain ---
+0.0    90878
+1.0        7
+Name: Weather_Condition_Heavy Thunderstorms and Rain, dtype: int64
+---- Weather_Condition_Light Drizzle ---
+0.0    90634
+1.0      251
+Name: Weather_Condition_Light Drizzle, dtype: int64
+---- Weather_Condition_Light Drizzle / Windy ---
+0.0    90884
+1.0        1
+Name: Weather_Condition_Light Drizzle / Windy, dtype: int64
+---- Weather_Condition_Light Freezing Drizzle ---
+0.0    90778
+1.0      107
+Name: Weather_Condition_Light Freezing Drizzle, dtype: int64
+---- Weather_Condition_Light Freezing Fog ---
+0.0    90753
+1.0      132
+Name: Weather_Condition_Light Freezing Fog, dtype: int64
+---- Weather_Condition_Light Freezing Rain ---
+0.0    90878
+1.0        7
+Name: Weather_Condition_Light Freezing Rain, dtype: int64
+---- Weather_Condition_Light Rain ---
+0.0    89900
+1.0      985
+Name: Weather_Condition_Light Rain, dtype: int64
+---- Weather_Condition_Light Rain / Windy ---
+0.0    90837
+1.0       48
+Name: Weather_Condition_Light Rain / Windy, dtype: int64
+---- Weather_Condition_Light Rain Shower ---
+0.0    90861
+1.0       24
+Name: Weather_Condition_Light Rain Shower, dtype: int64
+---- Weather_Condition_Light Rain Shower / Windy ---
+0.0    90883
+1.0        2
+Name: Weather_Condition_Light Rain Shower / Windy, dtype: int64
+---- Weather_Condition_Light Rain with Thunder ---
+0.0    90726
+1.0      159
+Name: Weather_Condition_Light Rain with Thunder, dtype: int64
+---- Weather_Condition_Light Snow ---
+0.0    84472
+1.0     6413
+Name: Weather_Condition_Light Snow, dtype: int64
+---- Weather_Condition_Light Snow / Windy ---
+0.0    90706
+1.0      179
+Name: Weather_Condition_Light Snow / Windy, dtype: int64
+---- Weather_Condition_Light Snow Shower ---
+0.0    90884
+1.0        1
+Name: Weather_Condition_Light Snow Shower, dtype: int64
+---- Weather_Condition_Light Snow Showers ---
+0.0    90883
+1.0        2
+Name: Weather_Condition_Light Snow Showers, dtype: int64
+---- Weather_Condition_Light Snow with Thunder ---
+0.0    90879
+1.0        6
+Name: Weather_Condition_Light Snow with Thunder, dtype: int64
+---- Weather_Condition_Light Thunderstorm ---
+0.0    90884
+1.0        1
+Name: Weather_Condition_Light Thunderstorm, dtype: int64
+---- Weather_Condition_Light Thunderstorms and Rain ---
+0.0    90846
+1.0       39
+Name: Weather_Condition_Light Thunderstorms and Rain, dtype: int64
+---- Weather_Condition_Light Thunderstorms and Snow ---
+0.0    90881
+1.0        4
+Name: Weather_Condition_Light Thunderstorms and Snow, dtype: int64
+---- Weather_Condition_Mist ---
+0.0    90853
+1.0       32
+Name: Weather_Condition_Mist, dtype: int64
+---- Weather_Condition_Mostly Cloudy ---
+0.0    74438
+1.0    16447
+Name: Weather_Condition_Mostly Cloudy, dtype: int64
+---- Weather_Condition_Mostly Cloudy / Windy ---
+0.0    90327
+1.0      558
+Name: Weather_Condition_Mostly Cloudy / Windy, dtype: int64
+---- Weather_Condition_N/A Precipitation ---
+0.0    90843
+1.0       42
+Name: Weather_Condition_N/A Precipitation, dtype: int64
+---- Weather_Condition_Overcast ---
+0.0    88500
+1.0     2385
+Name: Weather_Condition_Overcast, dtype: int64
+---- Weather_Condition_Partial Fog ---
+0.0    90877
+1.0        8
+Name: Weather_Condition_Partial Fog, dtype: int64
+---- Weather_Condition_Partly Cloudy ---
+0.0    77020
+1.0    13865
+Name: Weather_Condition_Partly Cloudy, dtype: int64
+---- Weather_Condition_Partly Cloudy / Windy ---
+0.0    90412
+1.0      473
+Name: Weather_Condition_Partly Cloudy / Windy, dtype: int64
+---- Weather_Condition_Patches of Fog ---
+0.0    90866
+1.0       19
+Name: Weather_Condition_Patches of Fog, dtype: int64
+---- Weather_Condition_Rain ---
+0.0    90715
+1.0      170
+Name: Weather_Condition_Rain, dtype: int64
+---- Weather_Condition_Rain / Windy ---
+0.0    90879
+1.0        6
+Name: Weather_Condition_Rain / Windy, dtype: int64
+---- Weather_Condition_Scattered Clouds ---
+0.0    86815
+1.0     4070
+Name: Weather_Condition_Scattered Clouds, dtype: int64
+---- Weather_Condition_Showers in the Vicinity ---
+0.0    90680
+1.0      205
+Name: Weather_Condition_Showers in the Vicinity, dtype: int64
+---- Weather_Condition_Smoke ---
+0.0    90688
+1.0      197
+Name: Weather_Condition_Smoke, dtype: int64
+---- Weather_Condition_Smoke / Windy ---
+0.0    90880
+1.0        5
+Name: Weather_Condition_Smoke / Windy, dtype: int64
+---- Weather_Condition_Snow ---
+0.0    89823
+1.0     1062
+Name: Weather_Condition_Snow, dtype: int64
+---- Weather_Condition_Snow / Windy ---
+0.0    90822
+1.0       63
+Name: Weather_Condition_Snow / Windy, dtype: int64
+---- Weather_Condition_Snow and Thunder ---
+0.0    90884
+1.0        1
+Name: Weather_Condition_Snow and Thunder, dtype: int64
+---- Weather_Condition_Squalls ---
+0.0    90879
+1.0        6
+Name: Weather_Condition_Squalls, dtype: int64
+---- Weather_Condition_Squalls / Windy ---
+0.0    90879
+1.0        6
+Name: Weather_Condition_Squalls / Windy, dtype: int64
+---- Weather_Condition_T-Storm ---
+0.0    90784
+1.0      101
+Name: Weather_Condition_T-Storm, dtype: int64
+---- Weather_Condition_T-Storm / Windy ---
+0.0    90863
+1.0       22
+Name: Weather_Condition_T-Storm / Windy, dtype: int64
+---- Weather_Condition_Thunder ---
+0.0    90786
+1.0       99
+Name: Weather_Condition_Thunder, dtype: int64
+---- Weather_Condition_Thunder / Windy ---
+0.0    90868
+1.0       17
+Name: Weather_Condition_Thunder / Windy, dtype: int64
+---- Weather_Condition_Thunder / Wintry Mix ---
+0.0    90883
+1.0        2
+Name: Weather_Condition_Thunder / Wintry Mix, dtype: int64
+---- Weather_Condition_Thunder in the Vicinity ---
+0.0    90668
+1.0      217
+Name: Weather_Condition_Thunder in the Vicinity, dtype: int64
+---- Weather_Condition_Thunderstorm ---
+0.0    90846
+1.0       39
+Name: Weather_Condition_Thunderstorm, dtype: int64
+---- Weather_Condition_Thunderstorms and Rain ---
+0.0    90877
+1.0        8
+Name: Weather_Condition_Thunderstorms and Rain, dtype: int64
+---- Weather_Condition_Widespread Dust / Windy ---
+0.0    90877
+1.0        8
+Name: Weather_Condition_Widespread Dust / Windy, dtype: int64
+---- Weather_Condition_Wintry Mix ---
+0.0    90733
+1.0      152
+Name: Weather_Condition_Wintry Mix, dtype: int64
+---- Weather_Condition_nan ---
+0.0    89475
+1.0     1410
+Name: Weather_Condition_nan, dtype: int64
