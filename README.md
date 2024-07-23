@@ -1,5 +1,10 @@
 # README for Project_3 (Working Document) This document will be replaced. 
 
+### Communication Plan:  
+
+Our plan is to meet each evening when class is held (Monday, Tuesday, and Thursday).  At the end of class on Tuesday, we will decide if we will meet Wednesday evening or not.  At the end of class on Thursday, we will decide if we will meet on any of the following based on work yet to - Friday, Saturday, and/or Sunday.
+
+
 Project ideation - Started 07/18/2024
 Project Team
 
